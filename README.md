@@ -1,5 +1,5 @@
 # Etherum
-
+Learning in progress..
 install solidity and truffle, testrpc
 
 run testrpc in separate command prompt
